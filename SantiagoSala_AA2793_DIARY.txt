@@ -1,0 +1,27 @@
+Project description:
+Basic 3D platformer. 
+
+
+Game mechanics:
+Character controller.
+Different types of platforms (static, movables, etc)
+
+Controls:
+
+
+Scheduling:
+Date		Hours	Description
+25-02-2022	0.5h	Created the github repository and commited the initial commit. 
+		1h	Checked for assets that may suit the project. End up downloading the free monthly ones.
+			Found a course in udemy about unreal engine 5 platformer (https://www.udemy.com/course/unrealengine5-make-your-first-game/). Bought it and started the course. ()
+
+
+
+
+
+Total hours spent: 
+
+
+Resources used:
+Type		Name								Link
+Course		UnrealEngine 5 Beginner Blueprints: Make your first game!	https://www.udemy.com/course/unrealengine5-make-your-first-game/
